@@ -6,8 +6,8 @@ body {
 
   .navbar-brand {
     font-family: Imprint MT Shadow;
-    font-size: 4.5vw;
-    color: #443C68;
+    font-size: 4vw;
+    color: #443C68 !important;
     line-height: 1;
   }
 
