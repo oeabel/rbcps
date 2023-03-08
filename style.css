@@ -1,12 +1,12 @@
 body {
     background-color: #f2f2f2; /* replace with your desired color */
-    background-image: url('images/matthew-bornhorst-doptMIMG-IA-unsplash.jpg'); /* replace with your desired image */
+    background-image: url('images/matthew-bornhorst-doptMIMG-IA-unsplash-aspectresize.jpg'); /* replace with your desired image */
     background-size: cover; /* optional, to make the image cover the whole screen */
   }
 
   .navbar-brand {
     font-family: Imprint MT Shadow;
-    font-size: 4vw;
+    font-size: 4.5vw;
     color: #443C68 !important;
     line-height: 1;
   }
@@ -14,9 +14,10 @@ body {
   .btncolor {
     background-color: #443C68;
     color: #FFFBEB;
-    font-family: Elephant;
+    font-family: Muli;
     border-radius: 20px;
     width: 150px;
     padding: 8px;
     margin: 5px;
+    opacity: 90%;
   }
